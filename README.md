@@ -1,5 +1,5 @@
 
-# 💰 Expense & Budget Tracker – Python CLI + SQLite + Pandas
+# Expense & Budget Tracker – Python CLI + SQLite + Pandas
 
 A command-line based personal finance tracker built using Python. This project helps users track their daily income and expenses, monitor their monthly budget, and generate detailed financial reports using SQL, and Pandas
 ---
